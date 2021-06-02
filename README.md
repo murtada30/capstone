@@ -188,6 +188,10 @@ token 11 to tken 20 were minted
 token 11 to token 15 were sold 
 token 16 to token 20 remained 
 
+# contract ABIs
+contract ABIs can be found in build/contracts folder as part of the json file ("abi": )
+in this case the file is SolnSquareVerifier.json
+
 
 
 
